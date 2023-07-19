@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    /* overflow: hidden; */
+   
 }
 
 .navbar{
@@ -20,6 +20,7 @@
     width: 100px;
 }
 .logo{
+/*     Amazon logo image      */
     background-image:url("/amzon_image/amazon_logo.png"); 
     background-size:  cover;
     height: 50px;
@@ -124,53 +125,6 @@ span {
 }
 
 /* Panel box */
-
-
-/* .sidebar {
-    background-color: white;
-    /* width: 0px; */
-    /* height: 300px; */
-    transition: all 0.5s;
-    /* height: 300px; */
-    position: absolute;
-    /* z-index: 101; */
-    /* overflow-y: scroll; */
-    box-shadow: 2px 2px 30px black;
-}
-
-.hide-head{
-   background-color: #232f3E;
-   height: 60px;
-   /* width: 100%; */
-   color: white;
-   text-align: center;
-
-}
-
-.hide-head h2 {
-   line-height: 60px;
-}
-
-.hide-content h3 {
-   padding: 20px 25px;
-   color: rgb(39,39,39);
-}
-
-.hide-content ul div {
-   display: flex;
-   cursor: pointer;
-   transition: all 0.2s;
-   font-size: 14xp;
-   color: rgb(70,70,70);
-   padding: 15px 20px;
-   justify-content: space-between;
-} */
-
-
-
-
-
-
 .panel {
     height: 40px;
     background-color: #0f1111;
@@ -179,46 +133,6 @@ span {
     align-items: center;
     justify-content: space-evenly;
 }
-
- /* .sidebar {
-     background-color: white;
-     width: 300px;
-     height: 100%;
-     transition: all 0.5s;
-     height: 100%;
-     position: absolute;
-     z-index: 101;
-     overflow-y: scroll;
-     box-shadow: 2px 2px 30px black;
-}
-
-.hide-head{
-    background-color: #232f3E;
-    height: 60px;
-    width: 100%;
-    color: white;
-    text-align: center;
-
-}
-
-.hide-head h2 {
-    line-height: 60px;
-}
-
-.hide-content h3 {
-    padding: 20px 25px;
-    color: rgb(39,39,39);
-}
-
-.hide-content ul div {
-    display: flex;
-    cursor: pointer;
-    transition: all 0.2s;
-    font-size: 14xp;
-    color: rgb(70,70,70);
-    padding: 15px 20px;
-    justify-content: space-between;
-}  */
 
 .panel-ops p {
     display: inline;
@@ -236,46 +150,7 @@ span {
 
 }
 
- /* .sidebar {
-    background-color:rgb(255, 255, 255);
-    width: 300px;
-    height: 100%;
-    transition: all 0.5s;
-    height: 100%;
-    position: absolute;
-    z-index: 101;
-    overflow-y: scroll;
-    box-shadow: 2px 2px 30px black;
-} 
-
-.hide-head{
-   background-color: #232f3E;
-   height: 60px;
-   width: 100%;
-   color: black;
-   text-align: center;
-
-}
-
-.hide-head h2 {
-   font-size: large;
-   color: yellow;
-}
-
-.hide-content h3 {
-   padding: 20px 25px;
-   color: rgb(39,39,39);
-}
-
-.hide-content ul div {
-   display: flex;
-   cursor: pointer;
-   transition: all 0.2s;
-   font-size: 14xp;
-   color: rgb(70,70,70);
-   padding: 15px 20px;
-   justify-content: space-between;
-}  */
+ 
 
 /* hero section */
 
@@ -404,10 +279,6 @@ ul a {
    justify-content: space-evenly;
 }
 
-/* pages a {
-    color: white;
-
-} */
 
 .copyright {
     padding-top: 5px;
